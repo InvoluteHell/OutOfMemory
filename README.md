@@ -24,27 +24,31 @@
 <!-- begin of RANKING -->
 | Rank | Player | File | Length | Category | Score |
 | ---- | ------ | ---- | ------ | -------- | ----- |
-| 1 | [Moeweb647252](Moeweb647252) | [oom.bat](Moeweb647252/oom.bat) | 6 | 4 | 24 |
+| 1 | [Moeweb647252](Moeweb647252) | [oom.bat](Moeweb647252/oom.bat) | 5 | 3 | 15 |
 | 2 | [wanz](wanz) | [oom.py](wanz/oom.py) | 9 | 3 | 27 |
 | 3 | [dragove](dragove) | [oom.py](dragove/oom.py) | 9 | 5 | 45 |
 | 4 | [HisAtri](HisAtri) | [new.py](HisAtri/new.py) | 10 | 5 | 50 |
-| 5 | [Cherry-mma](Cherry-mma) | [main.wl](Cherry-mma/main.wl) | 10 | 9 | 90 |
-| 6 | [lovemilk](lovemilk) | [oom.rb](lovemilk/oom.rb) | 14 | 10 | 140 |
-| 7 | [Rear_Sagittar](Rear_Sagittar) | [fuckwin.ps1](Rear_Sagittar/fuckwin.ps1) | 13 | 12 | 156 |
-| 8 | [Zhilu](Zhilu) | [simple-oom.js](Zhilu/simple-oom.js) | 17 | 13 | 221 |
-| 9 | [yusuixian](yusuixian) | [main.cpp](yusuixian/main.cpp) | 26 | 17 | 442 |
-| 10 | [mr_cino](mr_cino) | [oom.wo](mr_cino/oom.wo) | 26 | 17 | 442 |
-| 11 | [Cherry](Cherry) | [main.c](Cherry/main.c) | 27 | 18 | 486 |
-| 12 | [RaySky_Rt](RaySky_Rt) | [oom.cpp](RaySky_Rt/oom.cpp) | 30 | 19 | 570 |
-| 13 | [lianhong](lianhong) | [main.go](lianhong/main.go) | 43 | 24 | 1032 |
-| 14 | [Ns2Kracy](Ns2Kracy) | [main.go](Ns2Kracy/main.go) | 46 | 27 | 1242 |
-| 15 | [wzyisyyds](wzyisyyds) | [rust.rs](wzyisyyds/rust.rs) | 48 | 27 | 1296 |
+| 5 | [horror-proton](horror-proton) | [oom.sh](horror-proton/oom.sh) | 10 | 8 | 80 |
+| 6 | [Cherry-mma](Cherry-mma) | [main.wl](Cherry-mma/main.wl) | 10 | 9 | 90 |
+| 7 | [lovemilk](lovemilk) | [oom.rb](lovemilk/oom.rb) | 14 | 9 | 126 |
+| 8 | [Rear_Sagittar](Rear_Sagittar) | [fuckwin.ps1](Rear_Sagittar/fuckwin.ps1) | 13 | 12 | 156 |
+| 9 | [Zhilu](Zhilu) | [simple-oom.js](Zhilu/simple-oom.js) | 17 | 13 | 221 |
+| 10 | [limaomao](limaomao) | [omm.py](limaomao/omm.py) | 26 | 16 | 416 |
+| 11 | [yusuixian](yusuixian) | [main.cpp](yusuixian/main.cpp) | 26 | 17 | 442 |
+| 12 | [mr_cino](mr_cino) | [oom.wo](mr_cino/oom.wo) | 26 | 17 | 442 |
+| 13 | [Cherry](Cherry) | [main.c](Cherry/main.c) | 27 | 18 | 486 |
+| 14 | [bakashigure](bakashigure) | [a](bakashigure/a) | 26 | 19 | 494 |
+| 15 | [RaySky_Rt](RaySky_Rt) | [oom.cpp](RaySky_Rt/oom.cpp) | 26 | 19 | 494 |
+| 16 | [lianhong](lianhong) | [main.go](lianhong/main.go) | 43 | 24 | 1032 |
+| 17 | [Ns2Kracy](Ns2Kracy) | [main.go](Ns2Kracy/main.go) | 46 | 27 | 1242 |
+| 18 | [wzyisyyds](wzyisyyds) | [rust.rs](wzyisyyds/rust.rs) | 48 | 27 | 1296 |
 <!-- end of RANKING -->
 
 ## 奖品
 
 - 第一名：一箱难喝的黑咖啡。由 @MistEO 赞助！
 - 最佳创意奖：10 美元 苹果 或 Google Play 礼品卡。由 @守夜人 赞助！
+- 随机参与奖：V 你 50！由 @时雨 赞助！
 
 欢迎老板们赞助更多奖品~
 
