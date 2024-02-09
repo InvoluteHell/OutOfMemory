@@ -5,13 +5,14 @@ if __name__ == '__main__':
 
     score_list = []
 
+    filter_ext = [".md", ".txt", ".png", ".jpg", ".gif", ".bmp"]
     for player in Path('.').glob('*'):
         if player.is_file():
             continue
         if player.stem.startswith('.'):
             continue
 
-        result = best_file_score([x for x in player.glob('**/*') if x.is_file()])
+        result = best_file_score([x for x in player.glob('**/*') if x.is_file() and not x.suffix in filter_ext])
         if result:
             path, score = result
             score_list.append((player.stem, path, score))

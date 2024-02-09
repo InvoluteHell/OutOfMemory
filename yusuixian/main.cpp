@@ -1,1 +1,1 @@
-intmain(){int *r=new int[999999999];}
+int main(){int *r=new int[999999999];}
