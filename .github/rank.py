@@ -11,7 +11,7 @@ if __name__ == '__main__':
         if player.stem.startswith('.'):
             continue
 
-        result = best_file_score([x for x in player.glob('**/*') if x.is_file()])
+        result = best_file_score([x for x in player.glob('**/*') if x.is_file() and x.suffix != ".md"])
         if result:
             path, score = result
             score_list.append((player.stem, path, score))
