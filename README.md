@@ -22,11 +22,11 @@
 <!-- begin of RANKING -->
 | Rank | Player | File | Length | Category | Score |
 | ---- | ------ | ---- | ------ | -------- | ----- |
-| 1 | [yusuixian](yusuixian) | [README.md](yusuixian/README.md) | 5 | 5 | 25 |
-| 2 | [wanz](wanz) | [oom.py](wanz/oom.py) | 9 | 3 | 27 |
-| 3 | [dragove](dragove) | [oom.py](dragove/oom.py) | 9 | 5 | 45 |
-| 4 | [HisAtri](HisAtri) | [new.py](HisAtri/new.py) | 10 | 5 | 50 |
-| 5 | [mr_cino](mr_cino) | [oom.wo](mr_cino/oom.wo) | 26 | 17 | 442 |
+| 1 | [wanz](wanz) | [oom.py](wanz/oom.py) | 9 | 3 | 27 |
+| 2 | [dragove](dragove) | [oom.py](dragove/oom.py) | 9 | 5 | 45 |
+| 3 | [HisAtri](HisAtri) | [new.py](HisAtri/new.py) | 10 | 5 | 50 |
+| 4 | [mr_cino](mr_cino) | [oom.wo](mr_cino/oom.wo) | 26 | 17 | 442 |
+| 5 | [yusuixian](yusuixian) | [main.cpp](yusuixian/main.cpp) | 37 | 19 | 703 |
 <!-- end of RANKING -->
 
 ## 奖品
