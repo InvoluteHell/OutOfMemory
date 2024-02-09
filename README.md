@@ -10,8 +10,7 @@
   即要占用一定的时间，申请内存后立刻进程结束这种无法截图的不行
 - 计分规则为：代码字符数量 乘 字符种类。最小者获胜！
 - 对于类似 Matlab 等解释器本身占用极大的语言，实际占用需减去解释器本身占用
-- 不准联网，不准通过环境变量、文件名、编译参数等耍赖，不准使用专门为本次比赛设计的编程语言、操作系统、API 等  
-  总之不准卡 bug，主办方享有比赛规则解释权（
+- 不准联网；不准通过环境变量、文件名、编译参数等耍赖；不准使用专门为本次比赛设计的编程语言、操作系统、API 等。总之不准卡 bug，主办方享有比赛规则解释权（
  
 ## 参赛方式
 
@@ -25,14 +24,18 @@
 <!-- begin of RANKING -->
 | Rank | Player | File | Length | Category | Score |
 | ---- | ------ | ---- | ------ | -------- | ----- |
-| 1 | [wanz](wanz) | [oom.py](wanz/oom.py) | 10 | 5 | 50 |
-| 2 | [dragove](dragove) | [main.py](dragove/main.py) | 9 | 6 | 54 |
-| 3 | [HisAtri](HisAtri) | [oom.py](HisAtri/oom.py) | 23 | 13 | 299 |
+| 1 | [wanz](wanz) | [oom.py](wanz/oom.py) | 9 | 3 | 27 |
+| 2 | [dragove](dragove) | [oom.py](dragove/oom.py) | 9 | 5 | 45 |
+| 3 | [HisAtri](HisAtri) | [new.py](HisAtri/new.py) | 10 | 5 | 50 |
+| 4 | [Cherry](Cherry) | [main.c](Cherry/main.c) | 29 | 15 | 435 |
+| 5 | [mr_cino](mr_cino) | [oom.wo](mr_cino/oom.wo) | 26 | 17 | 442 |
+| 6 | [yusuixian](yusuixian) | [main.cpp](yusuixian/main.cpp) | 39 | 20 | 780 |
 <!-- end of RANKING -->
 
 ## 奖品
 
-- 第一名：一箱难喝的黑咖啡。由 [@MistEO](https://github.com/MistEO) 赞助！
+- 第一名：一箱难喝的黑咖啡。由 @MistEO 赞助！
+- 最佳创意奖：10 美元 苹果 或 Google Play 礼品卡。由 @守夜人 赞助！
 
 欢迎老板们赞助更多奖品~
 

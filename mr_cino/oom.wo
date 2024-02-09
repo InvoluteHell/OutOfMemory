@@ -1,0 +1,1 @@
+let mut s="0";for(;;)s+=s;
