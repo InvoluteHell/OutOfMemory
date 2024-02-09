@@ -24,7 +24,7 @@
 <!-- begin of RANKING -->
 | Rank | Player | File | Length | Category | Score |
 | ---- | ------ | ---- | ------ | -------- | ----- |
-| 1 | [Moeweb647252](Moeweb647252) | [oom.bat](Moeweb647252/oom.bat) | 6 | 4 | 24 |
+| 1 | [Moeweb647252](Moeweb647252) | [oom.bat](Moeweb647252/oom.bat) | 5 | 3 | 15 |
 | 2 | [wanz](wanz) | [oom.py](wanz/oom.py) | 9 | 3 | 27 |
 | 3 | [dragove](dragove) | [oom.py](dragove/oom.py) | 9 | 5 | 45 |
 | 4 | [HisAtri](HisAtri) | [new.py](HisAtri/new.py) | 10 | 5 | 50 |
