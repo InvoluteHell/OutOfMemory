@@ -1,1 +1,1 @@
-int main(){int *r=new int[999999999];}
+int main(){new int[9e9];}
