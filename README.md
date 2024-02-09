@@ -33,19 +33,20 @@
 | 7 | [Cherry-mma](Cherry-mma) | [main.wl](Cherry-mma/main.wl) | 10 | 9 | 90 |
 | 8 | [lovemilk](lovemilk) | [oom.rb](lovemilk/oom.rb) | 14 | 9 | 126 |
 | 9 | [Rear_Sagittar](Rear_Sagittar) | [fuckwin.ps1](Rear_Sagittar/fuckwin.ps1) | 13 | 12 | 156 |
-| 10 | [Zhilu](Zhilu) | [simple-oom.js](Zhilu/simple-oom.js) | 17 | 13 | 221 |
-| 11 | [limaomao](limaomao) | [omm.py](limaomao/omm.py) | 26 | 16 | 416 |
-| 12 | [yusuixian](yusuixian) | [main.cpp](yusuixian/main.cpp) | 26 | 17 | 442 |
-| 13 | [mr_cino](mr_cino) | [oom.wo](mr_cino/oom.wo) | 26 | 17 | 442 |
-| 14 | [Cherry](Cherry) | [main.c](Cherry/main.c) | 27 | 18 | 486 |
-| 15 | [bakashigure](bakashigure) | [a](bakashigure/a) | 26 | 19 | 494 |
-| 16 | [RaySky_Rt](RaySky_Rt) | [oom.cpp](RaySky_Rt/oom.cpp) | 26 | 19 | 494 |
-| 17 | [status102](status102) | [oom.kt](status102/oom.kt) | 32 | 16 | 512 |
-| 18 | [LuoRenMu](LuoRenMu) | [oom.kt](LuoRenMu/oom.kt) | 47 | 18 | 846 |
-| 19 | [lianhong](lianhong) | [main.go](lianhong/main.go) | 43 | 24 | 1032 |
-| 20 | [Ns2Kracy](Ns2Kracy) | [main.go](Ns2Kracy/main.go) | 46 | 27 | 1242 |
-| 21 | [wzyisyyds](wzyisyyds) | [rust.rs](wzyisyyds/rust.rs) | 48 | 27 | 1296 |
-| 22 | [Kakaru](Kakaru) | [oom.vbs](Kakaru/oom.vbs) | 51 | 26 | 1326 |
+| 10 | [mole828](mole828) | [oom.py](mole828/oom.py) | 17 | 11 | 187 |
+| 11 | [Zhilu](Zhilu) | [simple-oom.js](Zhilu/simple-oom.js) | 17 | 13 | 221 |
+| 12 | [limaomao](limaomao) | [omm.py](limaomao/omm.py) | 26 | 16 | 416 |
+| 13 | [yusuixian](yusuixian) | [main.cpp](yusuixian/main.cpp) | 26 | 17 | 442 |
+| 14 | [mr_cino](mr_cino) | [oom.wo](mr_cino/oom.wo) | 26 | 17 | 442 |
+| 15 | [Cherry](Cherry) | [main.c](Cherry/main.c) | 27 | 18 | 486 |
+| 16 | [bakashigure](bakashigure) | [a](bakashigure/a) | 26 | 19 | 494 |
+| 17 | [RaySky_Rt](RaySky_Rt) | [oom.cpp](RaySky_Rt/oom.cpp) | 26 | 19 | 494 |
+| 18 | [status102](status102) | [oom.kt](status102/oom.kt) | 32 | 16 | 512 |
+| 19 | [LuoRenMu](LuoRenMu) | [oom.kt](LuoRenMu/oom.kt) | 47 | 18 | 846 |
+| 20 | [lianhong](lianhong) | [main.go](lianhong/main.go) | 43 | 24 | 1032 |
+| 21 | [Ns2Kracy](Ns2Kracy) | [main.go](Ns2Kracy/main.go) | 46 | 27 | 1242 |
+| 22 | [wzyisyyds](wzyisyyds) | [rust.rs](wzyisyyds/rust.rs) | 48 | 27 | 1296 |
+| 23 | [Kakaru](Kakaru) | [oom.vbs](Kakaru/oom.vbs) | 51 | 26 | 1326 |
 <!-- end of RANKING -->
 
 ## 奖品
