@@ -1,0 +1,1 @@
+int main(){for(;;)new int[9];}
