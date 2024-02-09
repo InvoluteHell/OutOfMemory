@@ -1,1 +1,1 @@
-int main(){for(;;)new int[9];}
+main(){for(;;)new int[9];}
