@@ -41,10 +41,11 @@
 | 15 | [bakashigure](bakashigure) | [a](bakashigure/a) | 26 | 19 | 494 |
 | 16 | [RaySky_Rt](RaySky_Rt) | [oom.cpp](RaySky_Rt/oom.cpp) | 26 | 19 | 494 |
 | 17 | [status102](status102) | [oom.kt](status102/oom.kt) | 32 | 16 | 512 |
-| 18 | [lianhong](lianhong) | [main.go](lianhong/main.go) | 43 | 24 | 1032 |
-| 19 | [Ns2Kracy](Ns2Kracy) | [main.go](Ns2Kracy/main.go) | 46 | 27 | 1242 |
-| 20 | [wzyisyyds](wzyisyyds) | [rust.rs](wzyisyyds/rust.rs) | 48 | 27 | 1296 |
-| 21 | [Kakaru](Kakaru) | [oom.vbs](Kakaru/oom.vbs) | 51 | 26 | 1326 |
+| 18 | [LuoRenMu](LuoRenMu) | [oom.kt](LuoRenMu/oom.kt) | 47 | 18 | 846 |
+| 19 | [lianhong](lianhong) | [main.go](lianhong/main.go) | 43 | 24 | 1032 |
+| 20 | [Ns2Kracy](Ns2Kracy) | [main.go](Ns2Kracy/main.go) | 46 | 27 | 1242 |
+| 21 | [wzyisyyds](wzyisyyds) | [rust.rs](wzyisyyds/rust.rs) | 48 | 27 | 1296 |
+| 22 | [Kakaru](Kakaru) | [oom.vbs](Kakaru/oom.vbs) | 51 | 26 | 1326 |
 <!-- end of RANKING -->
 
 ## 奖品
