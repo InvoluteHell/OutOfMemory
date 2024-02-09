@@ -39,9 +39,10 @@
 | 13 | [Cherry](Cherry) | [main.c](Cherry/main.c) | 27 | 18 | 486 |
 | 14 | [bakashigure](bakashigure) | [a](bakashigure/a) | 26 | 19 | 494 |
 | 15 | [RaySky_Rt](RaySky_Rt) | [oom.cpp](RaySky_Rt/oom.cpp) | 26 | 19 | 494 |
-| 16 | [lianhong](lianhong) | [main.go](lianhong/main.go) | 43 | 24 | 1032 |
-| 17 | [Ns2Kracy](Ns2Kracy) | [main.go](Ns2Kracy/main.go) | 46 | 27 | 1242 |
-| 18 | [wzyisyyds](wzyisyyds) | [rust.rs](wzyisyyds/rust.rs) | 48 | 27 | 1296 |
+| 16 | [status102](status102) | [oom.kt](status102/oom.kt) | 32 | 16 | 512 |
+| 17 | [lianhong](lianhong) | [main.go](lianhong/main.go) | 43 | 24 | 1032 |
+| 18 | [Ns2Kracy](Ns2Kracy) | [main.go](Ns2Kracy/main.go) | 46 | 27 | 1242 |
+| 19 | [wzyisyyds](wzyisyyds) | [rust.rs](wzyisyyds/rust.rs) | 48 | 27 | 1296 |
 <!-- end of RANKING -->
 
 ## 奖品
