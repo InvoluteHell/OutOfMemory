@@ -1,0 +1,1 @@
+intmain(){int *r=new int[999999999];}
