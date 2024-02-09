@@ -68,5 +68,6 @@ if __name__ == '__main__':
         print('Usage: python scoring.py <files>')
         exit()
 
-    paths = [pathlib.Path(arg) for arg in sys.argv[1:]]
+    filter_ext = [".md", ".txt", ".png", ".jpg", ".gif", ".bmp"]
+    paths = [pathlib.Path(arg) for arg in sys.argv[1:] if pathlib.Path(arg).suffix in filter_ext])
     best_file_score(paths)
