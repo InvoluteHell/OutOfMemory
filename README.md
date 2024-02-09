@@ -27,6 +27,7 @@
 <!-- begin of RANKING -->
 | Rank | Player | File | Length | Category | Score |
 | ---- | ------ | ---- | ------ | -------- | ----- |
+| 1 | [wanz](wanz) | [oom.py](wanz/oom.py) | 16 | 14 | 224 |
 <!-- end of RANKING -->
 
 ## 奖品
