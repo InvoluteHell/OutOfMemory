@@ -1,0 +1,9 @@
+{
+    "run": {
+        "template": "run.png",
+        "next": [
+            "run",
+            "run"
+        ]
+    }
+}
