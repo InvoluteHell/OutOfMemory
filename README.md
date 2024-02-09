@@ -27,6 +27,7 @@
 | ---- | ------ | ---- | ------ | -------- | ----- |
 | 1 | [dragove](dragove) | [main.py](dragove/main.py) | 9 | 6 | 54 |
 | 2 | [wanz](wanz) | [oom.py](wanz/oom.py) | 16 | 14 | 224 |
+| 3 | [HisAtri](HisAtri) | [oom.py](HisAtri/oom.py) | 23 | 13 | 299 |
 <!-- end of RANKING -->
 
 ## 奖品
