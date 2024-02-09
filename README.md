@@ -25,7 +25,8 @@
 <!-- begin of RANKING -->
 | Rank | Player | File | Length | Category | Score |
 | ---- | ------ | ---- | ------ | -------- | ----- |
-| 1 | [wanz](wanz) | [oom.py](wanz/oom.py) | 16 | 14 | 224 |
+| 1 | [dragove](dragove) | [main.py](dragove/main.py) | 9 | 6 | 54 |
+| 2 | [wanz](wanz) | [oom.py](wanz/oom.py) | 16 | 14 | 224 |
 <!-- end of RANKING -->
 
 ## 奖品
