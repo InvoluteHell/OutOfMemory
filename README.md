@@ -29,8 +29,8 @@
 | 3 | [HisAtri](HisAtri) | [new.py](HisAtri/new.py) | 10 | 5 | 50 |
 | 4 | [Cherry-mma](Cherry-mma) | [main.wl](Cherry-mma/main.wl) | 10 | 9 | 90 |
 | 5 | [lovemilk](lovemilk) | [oom.rb](lovemilk/oom.rb) | 14 | 10 | 140 |
-| 6 | [Zhilu](Zhilu) | [simple-oom.js](Zhilu/simple-oom.js) | 17 | 13 | 221 |
-| 7 | [Rear_Sagittar](Rear_Sagittar) | [fuckwin.ps1](Rear_Sagittar/fuckwin.ps1) | 16 | 14 | 224 |
+| 6 | [Rear_Sagittar](Rear_Sagittar) | [fuckwin.ps1](Rear_Sagittar/fuckwin.ps1) | 13 | 12 | 156 |
+| 7 | [Zhilu](Zhilu) | [simple-oom.js](Zhilu/simple-oom.js) | 17 | 13 | 221 |
 | 8 | [yusuixian](yusuixian) | [main.cpp](yusuixian/main.cpp) | 26 | 17 | 442 |
 | 9 | [mr_cino](mr_cino) | [oom.wo](mr_cino/oom.wo) | 26 | 17 | 442 |
 | 10 | [Cherry](Cherry) | [main.c](Cherry/main.c) | 27 | 18 | 486 |
