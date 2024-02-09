@@ -1,11 +1,10 @@
-from scoring import file_score, best_file_score
+from scoring import file_score, best_file_score, filter_ext
 from pathlib import Path
 
 if __name__ == '__main__':
 
     score_list = []
 
-    filter_ext = [".md", ".txt", ".png", ".jpg", ".gif", ".bmp"]
     for player in Path('.').glob('*'):
         if player.is_file():
             continue
