@@ -1,1 +1,1 @@
-For i=2To 9:Execute"t"&i&"=String(2^29,""e"")":Next
+Dim t(99):For e=9To 99:t(e)=e&String(9^9,"9"):Next
