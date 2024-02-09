@@ -33,14 +33,15 @@
 | 7 | [lovemilk](lovemilk) | [oom.rb](lovemilk/oom.rb) | 14 | 9 | 126 |
 | 8 | [Rear_Sagittar](Rear_Sagittar) | [fuckwin.ps1](Rear_Sagittar/fuckwin.ps1) | 13 | 12 | 156 |
 | 9 | [Zhilu](Zhilu) | [simple-oom.js](Zhilu/simple-oom.js) | 17 | 13 | 221 |
-| 10 | [yusuixian](yusuixian) | [main.cpp](yusuixian/main.cpp) | 26 | 17 | 442 |
-| 11 | [mr_cino](mr_cino) | [oom.wo](mr_cino/oom.wo) | 26 | 17 | 442 |
-| 12 | [Cherry](Cherry) | [main.c](Cherry/main.c) | 27 | 18 | 486 |
-| 13 | [bakashigure](bakashigure) | [a](bakashigure/a) | 26 | 19 | 494 |
-| 14 | [RaySky_Rt](RaySky_Rt) | [oom.cpp](RaySky_Rt/oom.cpp) | 26 | 19 | 494 |
-| 15 | [lianhong](lianhong) | [main.go](lianhong/main.go) | 43 | 24 | 1032 |
-| 16 | [Ns2Kracy](Ns2Kracy) | [main.go](Ns2Kracy/main.go) | 46 | 27 | 1242 |
-| 17 | [wzyisyyds](wzyisyyds) | [rust.rs](wzyisyyds/rust.rs) | 48 | 27 | 1296 |
+| 10 | [limaomao](limaomao) | [omm.py](limaomao/omm.py) | 26 | 16 | 416 |
+| 11 | [yusuixian](yusuixian) | [main.cpp](yusuixian/main.cpp) | 26 | 17 | 442 |
+| 12 | [mr_cino](mr_cino) | [oom.wo](mr_cino/oom.wo) | 26 | 17 | 442 |
+| 13 | [Cherry](Cherry) | [main.c](Cherry/main.c) | 27 | 18 | 486 |
+| 14 | [bakashigure](bakashigure) | [a](bakashigure/a) | 26 | 19 | 494 |
+| 15 | [RaySky_Rt](RaySky_Rt) | [oom.cpp](RaySky_Rt/oom.cpp) | 26 | 19 | 494 |
+| 16 | [lianhong](lianhong) | [main.go](lianhong/main.go) | 43 | 24 | 1032 |
+| 17 | [Ns2Kracy](Ns2Kracy) | [main.go](Ns2Kracy/main.go) | 46 | 27 | 1242 |
+| 18 | [wzyisyyds](wzyisyyds) | [rust.rs](wzyisyyds/rust.rs) | 48 | 27 | 1296 |
 <!-- end of RANKING -->
 
 ## 奖品
