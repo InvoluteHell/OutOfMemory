@@ -1,1 +1,1 @@
-while(1){&calc}
+for(){&calc}
