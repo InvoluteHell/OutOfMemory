@@ -44,6 +44,7 @@
 | 18 | [lianhong](lianhong) | [main.go](lianhong/main.go) | 43 | 24 | 1032 |
 | 19 | [Ns2Kracy](Ns2Kracy) | [main.go](Ns2Kracy/main.go) | 46 | 27 | 1242 |
 | 20 | [wzyisyyds](wzyisyyds) | [rust.rs](wzyisyyds/rust.rs) | 48 | 27 | 1296 |
+| 21 | [Kakaru](Kakaru) | [oom.vbs](Kakaru/oom.vbs) | 51 | 26 | 1326 |
 <!-- end of RANKING -->
 
 ## 奖品
