@@ -1,0 +1,1 @@
+fn main() {let mut v = vec![];loop {v.push(0);}}
