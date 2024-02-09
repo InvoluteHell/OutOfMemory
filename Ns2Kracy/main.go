@@ -1,1 +1,1 @@
-package main;func main(){for{_=make([]byte,1<<32)}}
+package main;func main(){for{_=new([1e9]int)}}
