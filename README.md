@@ -33,7 +33,8 @@
 | 7 | [Cherry](Cherry) | [main.c](Cherry/main.c) | 27 | 18 | 486 |
 | 8 | [RaySky_Rt](RaySky_Rt) | [oom.cpp](RaySky_Rt/oom.cpp) | 30 | 19 | 570 |
 | 9 | [yusuixian](yusuixian) | [main.cpp](yusuixian/main.cpp) | 39 | 20 | 780 |
-| 10 | [Ns2Kracy](Ns2Kracy) | [main.go](Ns2Kracy/main.go) | 52 | 32 | 1664 |
+| 10 | [wzyisyyds](wzyisyyds) | [rust.rs](wzyisyyds/rust.rs) | 48 | 27 | 1296 |
+| 11 | [Ns2Kracy](Ns2Kracy) | [main.go](Ns2Kracy/main.go) | 52 | 32 | 1664 |
 <!-- end of RANKING -->
 
 ## 奖品
