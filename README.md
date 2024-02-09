@@ -36,7 +36,7 @@
 | 10 | [yusuixian](yusuixian) | [main.cpp](yusuixian/main.cpp) | 26 | 17 | 442 |
 | 11 | [mr_cino](mr_cino) | [oom.wo](mr_cino/oom.wo) | 26 | 17 | 442 |
 | 12 | [Cherry](Cherry) | [main.c](Cherry/main.c) | 27 | 18 | 486 |
-| 13 | [bakashigure](bakashigure) | [oom.lua](bakashigure/oom.lua) | 26 | 19 | 494 |
+| 13 | [bakashigure](bakashigure) | [a](bakashigure/a) | 26 | 19 | 494 |
 | 14 | [RaySky_Rt](RaySky_Rt) | [oom.cpp](RaySky_Rt/oom.cpp) | 26 | 19 | 494 |
 | 15 | [lianhong](lianhong) | [main.go](lianhong/main.go) | 43 | 24 | 1032 |
 | 16 | [Ns2Kracy](Ns2Kracy) | [main.go](Ns2Kracy/main.go) | 46 | 27 | 1242 |
