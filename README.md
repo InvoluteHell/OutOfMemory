@@ -29,10 +29,10 @@
 | 3 | [HisAtri](HisAtri) | [new.py](HisAtri/new.py) | 10 | 5 | 50 |
 | 4 | [Zhilu](Zhilu) | [simple-oom.js](Zhilu/simple-oom.js) | 17 | 13 | 221 |
 | 5 | [Rear_Sagittar](Rear_Sagittar) | [fuckwin.ps1](Rear_Sagittar/fuckwin.ps1) | 16 | 14 | 224 |
-| 6 | [mr_cino](mr_cino) | [oom.wo](mr_cino/oom.wo) | 26 | 17 | 442 |
-| 7 | [Cherry](Cherry) | [main.c](Cherry/main.c) | 27 | 18 | 486 |
-| 8 | [RaySky_Rt](RaySky_Rt) | [oom.cpp](RaySky_Rt/oom.cpp) | 30 | 19 | 570 |
-| 9 | [yusuixian](yusuixian) | [main.cpp](yusuixian/main.cpp) | 39 | 20 | 780 |
+| 6 | [yusuixian](yusuixian) | [main.cpp](yusuixian/main.cpp) | 26 | 17 | 442 |
+| 7 | [mr_cino](mr_cino) | [oom.wo](mr_cino/oom.wo) | 26 | 17 | 442 |
+| 8 | [Cherry](Cherry) | [main.c](Cherry/main.c) | 27 | 18 | 486 |
+| 9 | [RaySky_Rt](RaySky_Rt) | [oom.cpp](RaySky_Rt/oom.cpp) | 30 | 19 | 570 |
 | 10 | [wzyisyyds](wzyisyyds) | [rust.rs](wzyisyyds/rust.rs) | 48 | 27 | 1296 |
 | 11 | [Ns2Kracy](Ns2Kracy) | [main.go](Ns2Kracy/main.go) | 52 | 32 | 1664 |
 <!-- end of RANKING -->
