@@ -24,7 +24,7 @@
 <!-- begin of RANKING -->
 | Rank | Player | File | Length | Category | Score |
 | ---- | ------ | ---- | ------ | -------- | ----- |
-| 1 | [0x11111111](0x11111111) | [oom.sh](0x11111111/oom.sh) | 3 | 3 | 9 |
+| 1 | [0x11111111](0x11111111) | [oom.sh](0x11111111/oom.sh) | 2 | 2 | 4 |
 | 2 | [skadi](skadi) | [fuck.py](skadi/fuck.py) | 7 | 2 | 14 |
 | 3 | [Moeweb647252](Moeweb647252) | [oom.bat](Moeweb647252/oom.bat) | 5 | 3 | 15 |
 | 4 | [wanz](wanz) | [oom.py](wanz/oom.py) | 9 | 3 | 27 |
