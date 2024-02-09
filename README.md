@@ -37,9 +37,9 @@
 | 11 | [Zhilu](Zhilu) | [simple-oom.js](Zhilu/simple-oom.js) | 17 | 13 | 221 |
 | 12 | [limaomao](limaomao) | [omm.py](limaomao/omm.py) | 26 | 16 | 416 |
 | 13 | [yusuixian](yusuixian) | [main.cpp](yusuixian/main.cpp) | 26 | 17 | 442 |
-| 14 | [mr_cino](mr_cino) | [oom.wo](mr_cino/oom.wo) | 26 | 17 | 442 |
-| 15 | [Cherry](Cherry) | [main.c](Cherry/main.c) | 27 | 18 | 486 |
-| 16 | [bakashigure](bakashigure) | [a](bakashigure/a) | 26 | 19 | 494 |
+| 14 | [bakashigure](bakashigure) | [oom.lua](bakashigure/oom.lua) | 26 | 17 | 442 |
+| 15 | [mr_cino](mr_cino) | [oom.wo](mr_cino/oom.wo) | 26 | 17 | 442 |
+| 16 | [Cherry](Cherry) | [main.c](Cherry/main.c) | 27 | 18 | 486 |
 | 17 | [RaySky_Rt](RaySky_Rt) | [oom.cpp](RaySky_Rt/oom.cpp) | 26 | 19 | 494 |
 | 18 | [status102](status102) | [oom.kt](status102/oom.kt) | 32 | 16 | 512 |
 | 19 | [LuoRenMu](LuoRenMu) | [oom.kt](LuoRenMu/oom.kt) | 47 | 18 | 846 |
