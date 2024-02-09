@@ -28,8 +28,8 @@
 | 2 | [dragove](dragove) | [oom.py](dragove/oom.py) | 9 | 5 | 45 |
 | 3 | [HisAtri](HisAtri) | [new.py](HisAtri/new.py) | 10 | 5 | 50 |
 | 4 | [Zhilu](Zhilu) | [simple-oom.js](Zhilu/simple-oom.js) | 17 | 13 | 221 |
-| 5 | [Cherry](Cherry) | [main.c](Cherry/main.c) | 29 | 15 | 435 |
-| 6 | [mr_cino](mr_cino) | [oom.wo](mr_cino/oom.wo) | 26 | 17 | 442 |
+| 5 | [mr_cino](mr_cino) | [oom.wo](mr_cino/oom.wo) | 26 | 17 | 442 |
+| 6 | [Cherry](Cherry) | [main.c](Cherry/main.c) | 27 | 18 | 486 |
 | 7 | [yusuixian](yusuixian) | [main.cpp](yusuixian/main.cpp) | 39 | 20 | 780 |
 <!-- end of RANKING -->
 
