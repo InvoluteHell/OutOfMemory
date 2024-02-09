@@ -22,7 +22,7 @@
 <!-- begin of RANKING -->
 | Rank | Player | File | Length | Category | Score |
 | ---- | ------ | ---- | ------ | -------- | ----- |
-| 1 | [yusuixian](yusuixian) | [README.py](yusuixian/README.py) | 4 | 4 | 16 |
+| 1 | [yusuixian](yusuixian) | [README.md](yusuixian/README.md) | 5 | 5 | 25 |
 | 2 | [wanz](wanz) | [oom.py](wanz/oom.py) | 9 | 3 | 27 |
 | 3 | [dragove](dragove) | [oom.py](dragove/oom.py) | 9 | 5 | 45 |
 | 4 | [HisAtri](HisAtri) | [new.py](HisAtri/new.py) | 10 | 5 | 50 |
