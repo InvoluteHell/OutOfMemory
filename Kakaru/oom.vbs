@@ -1,1 +1,1 @@
-For i=2To 9:Execute"t"&i&"=String(2^29,""e"")":Next
+For i=9To 99:Execute"t"&i&"=String(9^9,""e"")":Next
