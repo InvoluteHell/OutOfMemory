@@ -25,7 +25,7 @@
 <!-- begin of RANKING -->
 | Rank | Player | File | Length | Category | Score |
 | ---- | ------ | ---- | ------ | -------- | ----- |
-| 1 | [wanz](wanz) | [oom.py](wanz/oom.py) | 10 | 5 | 50 |
+| 1 | [wanz](wanz) | [oom.py](wanz/oom.py) | 9 | 3 | 27 |
 | 2 | [dragove](dragove) | [main.py](dragove/main.py) | 9 | 6 | 54 |
 | 3 | [HisAtri](HisAtri) | [oom.py](HisAtri/oom.py) | 23 | 13 | 299 |
 <!-- end of RANKING -->
