@@ -6,6 +6,8 @@
 ## 比赛规则
 
 - 使用最短的代码占满内存！考虑大家设备各不相同，为方便比赛计量，实际占用 4G 及以上的内存即可
+- 要求在不使用断点等调试手段的情况下，使用 任务管理器 / htop / top 等第三方主流工具 **截图** 并上传  
+  即要占用一定的时间，申请内存后立刻进程结束这种无法截图的不行
 - 计分规则为：代码字符数量 乘 字符种类。最小者获胜！
 - 对于类似 Matlab 等解释器本身占用极大的语言，实际占用需减去解释器本身占用
 - 不准联网；不准通过环境变量、文件名、编译参数等耍赖；不准使用专门为本次比赛设计的编程语言、操作系统、API 等。总之不准卡 bug，主办方享有比赛规则解释权（
@@ -22,15 +24,27 @@
 <!-- begin of RANKING -->
 | Rank | Player | File | Length | Category | Score |
 | ---- | ------ | ---- | ------ | -------- | ----- |
-| 1 | [wanz](wanz) | [oom.py](wanz/oom.py) | 9 | 3 | 27 |
-| 2 | [dragove](dragove) | [oom.py](dragove/oom.py) | 9 | 5 | 45 |
-| 3 | [HisAtri](HisAtri) | [new.py](HisAtri/new.py) | 10 | 5 | 50 |
-| 4 | [mr_cino](mr_cino) | [oom.wo](mr_cino/oom.wo) | 26 | 17 | 442 |
+| 1 | [Moeweb647252](Moeweb647252) | [oom.bat](Moeweb647252/oom.bat) | 6 | 4 | 24 |
+| 2 | [wanz](wanz) | [oom.py](wanz/oom.py) | 9 | 3 | 27 |
+| 3 | [dragove](dragove) | [oom.py](dragove/oom.py) | 9 | 5 | 45 |
+| 4 | [HisAtri](HisAtri) | [new.py](HisAtri/new.py) | 10 | 5 | 50 |
+| 5 | [Cherry-mma](Cherry-mma) | [main.wl](Cherry-mma/main.wl) | 10 | 9 | 90 |
+| 6 | [lovemilk](lovemilk) | [oom.rb](lovemilk/oom.rb) | 14 | 10 | 140 |
+| 7 | [Rear_Sagittar](Rear_Sagittar) | [fuckwin.ps1](Rear_Sagittar/fuckwin.ps1) | 13 | 12 | 156 |
+| 8 | [Zhilu](Zhilu) | [simple-oom.js](Zhilu/simple-oom.js) | 17 | 13 | 221 |
+| 9 | [yusuixian](yusuixian) | [main.cpp](yusuixian/main.cpp) | 26 | 17 | 442 |
+| 10 | [mr_cino](mr_cino) | [oom.wo](mr_cino/oom.wo) | 26 | 17 | 442 |
+| 11 | [Cherry](Cherry) | [main.c](Cherry/main.c) | 27 | 18 | 486 |
+| 12 | [RaySky_Rt](RaySky_Rt) | [oom.cpp](RaySky_Rt/oom.cpp) | 30 | 19 | 570 |
+| 13 | [lianhong](lianhong) | [main.go](lianhong/main.go) | 43 | 24 | 1032 |
+| 14 | [wzyisyyds](wzyisyyds) | [rust.rs](wzyisyyds/rust.rs) | 48 | 27 | 1296 |
+| 15 | [Ns2Kracy](Ns2Kracy) | [main.go](Ns2Kracy/main.go) | 52 | 32 | 1664 |
 <!-- end of RANKING -->
 
 ## 奖品
 
-- 第一名：一箱难喝的黑咖啡。由 [@MistEO](https://github.com/MistEO) 赞助！
+- 第一名：一箱难喝的黑咖啡。由 @MistEO 赞助！
+- 最佳创意奖：10 美元 苹果 或 Google Play 礼品卡。由 @守夜人 赞助！
 
 欢迎老板们赞助更多奖品~
 

@@ -3,6 +3,9 @@ import typing
 import pathlib
 
 
+filter_ext = [".md", ".txt", ".png", ".jpg", ".gif", ".bmp"]
+
+
 def file_score(path: pathlib.Path) -> typing.Optional[typing.Tuple[int, int, int]]:
     """Return the score of a file based on its length and number of used characters."""
     
@@ -68,5 +71,5 @@ if __name__ == '__main__':
         print('Usage: python scoring.py <files>')
         exit()
 
-    paths = [pathlib.Path(arg) for arg in sys.argv[1:]]
+    paths = [pathlib.Path(arg) for arg in sys.argv[1:] if not pathlib.Path(arg).suffix in filter_ext]
     best_file_score(paths)
