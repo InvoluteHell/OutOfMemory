@@ -51,6 +51,7 @@
 | 25 | [Ns2Kracy](Ns2Kracy) | [main.go](Ns2Kracy/main.go) | 46 | 27 | 1242 |
 | 26 | [wzyisyyds](wzyisyyds) | [rust.rs](wzyisyyds/rust.rs) | 48 | 27 | 1296 |
 | 27 | [KoriSama](KoriSama) | [Program.cs](KoriSama/Program.cs) | 62 | 30 | 1860 |
+| 28 | [HChenZi](HChenZi) | [oom.js](HChenZi/oom.js) | 1847 | 62 | 114514 |
 <!-- end of RANKING -->
 
 ## 奖品
