@@ -47,12 +47,13 @@
 | 21 | [RaySky_Rt](RaySky_Rt) | [oom.cpp](RaySky_Rt/oom.cpp) | 26 | 19 | 494 |
 | 22 | [status102](status102) | [oom.kt](status102/oom.kt) | 32 | 16 | 512 |
 | 23 | [LuoRenMu](LuoRenMu) | [oom.kt](LuoRenMu/oom.kt) | 47 | 18 | 846 |
-| 24 | [lianhong](lianhong) | [main.go](lianhong/main.go) | 43 | 24 | 1032 |
-| 25 | [Kakaru](Kakaru) | [oom.vbs](Kakaru/oom.vbs) | 50 | 24 | 1200 |
-| 26 | [Ns2Kracy](Ns2Kracy) | [main.go](Ns2Kracy/main.go) | 46 | 27 | 1242 |
-| 27 | [wzyisyyds](wzyisyyds) | [rust.rs](wzyisyyds/rust.rs) | 48 | 27 | 1296 |
-| 28 | [KoriSama](KoriSama) | [Program.cs](KoriSama/Program.cs) | 62 | 30 | 1860 |
-| 29 | [HChenZi](HChenZi) | [oom.js](HChenZi/oom.js) | 1847 | 62 | 114514 |
+| 24 | [DrEden33773](DrEden33773) | [main.rs](DrEden33773/main.rs) | 38 | 23 | 874 |
+| 25 | [lianhong](lianhong) | [main.go](lianhong/main.go) | 43 | 24 | 1032 |
+| 26 | [Kakaru](Kakaru) | [oom.vbs](Kakaru/oom.vbs) | 50 | 24 | 1200 |
+| 27 | [Ns2Kracy](Ns2Kracy) | [main.go](Ns2Kracy/main.go) | 46 | 27 | 1242 |
+| 28 | [wzyisyyds](wzyisyyds) | [rust.rs](wzyisyyds/rust.rs) | 48 | 27 | 1296 |
+| 29 | [KoriSama](KoriSama) | [Program.cs](KoriSama/Program.cs) | 62 | 30 | 1860 |
+| 30 | [HChenZi](HChenZi) | [oom.js](HChenZi/oom.js) | 1847 | 62 | 114514 |
 <!-- end of RANKING -->
 
 ## 奖品
