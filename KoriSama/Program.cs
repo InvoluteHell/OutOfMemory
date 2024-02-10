@@ -1,0 +1,1 @@
+for(;;)System.Runtime.InteropServices.Marshal.AllocHGlobal(9);
