@@ -48,6 +48,7 @@
 | 22 | [Kakaru](Kakaru) | [oom.vbs](Kakaru/oom.vbs) | 50 | 24 | 1200 |
 | 23 | [Ns2Kracy](Ns2Kracy) | [main.go](Ns2Kracy/main.go) | 46 | 27 | 1242 |
 | 24 | [wzyisyyds](wzyisyyds) | [rust.rs](wzyisyyds/rust.rs) | 48 | 27 | 1296 |
+| 25 | [KoriSama](KoriSama) | [Program.cs](KoriSama/Program.cs) | 62 | 30 | 1860 |
 <!-- end of RANKING -->
 
 ## 奖品
