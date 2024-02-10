@@ -37,19 +37,20 @@
 | 11 | [xuanzhi33](xuanzhi33) | [oom.py](xuanzhi33/oom.py) | 16 | 11 | 176 |
 | 12 | [mole828](mole828) | [oom.py](mole828/oom.py) | 17 | 11 | 187 |
 | 13 | [Zhilu](Zhilu) | [simple-oom.js](Zhilu/simple-oom.js) | 17 | 13 | 221 |
-| 14 | [limaomao](limaomao) | [omm.py](limaomao/omm.py) | 26 | 16 | 416 |
-| 15 | [yusuixian](yusuixian) | [main.cpp](yusuixian/main.cpp) | 26 | 17 | 442 |
-| 16 | [bakashigure](bakashigure) | [oom.lua](bakashigure/oom.lua) | 26 | 17 | 442 |
-| 17 | [mr_cino](mr_cino) | [oom.wo](mr_cino/oom.wo) | 26 | 17 | 442 |
-| 18 | [Cherry](Cherry) | [main.c](Cherry/main.c) | 27 | 18 | 486 |
-| 19 | [RaySky_Rt](RaySky_Rt) | [oom.cpp](RaySky_Rt/oom.cpp) | 26 | 19 | 494 |
-| 20 | [status102](status102) | [oom.kt](status102/oom.kt) | 32 | 16 | 512 |
-| 21 | [LuoRenMu](LuoRenMu) | [oom.kt](LuoRenMu/oom.kt) | 47 | 18 | 846 |
-| 22 | [lianhong](lianhong) | [main.go](lianhong/main.go) | 43 | 24 | 1032 |
-| 23 | [Kakaru](Kakaru) | [oom.vbs](Kakaru/oom.vbs) | 50 | 24 | 1200 |
-| 24 | [Ns2Kracy](Ns2Kracy) | [main.go](Ns2Kracy/main.go) | 46 | 27 | 1242 |
-| 25 | [wzyisyyds](wzyisyyds) | [rust.rs](wzyisyyds/rust.rs) | 48 | 27 | 1296 |
-| 26 | [KoriSama](KoriSama) | [Program.cs](KoriSama/Program.cs) | 62 | 30 | 1860 |
+| 14 | [Alisa](Alisa) | [Program.cs](Alisa/Program.cs) | 22 | 13 | 286 |
+| 15 | [limaomao](limaomao) | [omm.py](limaomao/omm.py) | 26 | 16 | 416 |
+| 16 | [yusuixian](yusuixian) | [main.cpp](yusuixian/main.cpp) | 26 | 17 | 442 |
+| 17 | [bakashigure](bakashigure) | [oom.lua](bakashigure/oom.lua) | 26 | 17 | 442 |
+| 18 | [mr_cino](mr_cino) | [oom.wo](mr_cino/oom.wo) | 26 | 17 | 442 |
+| 19 | [Cherry](Cherry) | [main.c](Cherry/main.c) | 27 | 18 | 486 |
+| 20 | [RaySky_Rt](RaySky_Rt) | [oom.cpp](RaySky_Rt/oom.cpp) | 26 | 19 | 494 |
+| 21 | [status102](status102) | [oom.kt](status102/oom.kt) | 32 | 16 | 512 |
+| 22 | [LuoRenMu](LuoRenMu) | [oom.kt](LuoRenMu/oom.kt) | 47 | 18 | 846 |
+| 23 | [lianhong](lianhong) | [main.go](lianhong/main.go) | 43 | 24 | 1032 |
+| 24 | [Kakaru](Kakaru) | [oom.vbs](Kakaru/oom.vbs) | 50 | 24 | 1200 |
+| 25 | [Ns2Kracy](Ns2Kracy) | [main.go](Ns2Kracy/main.go) | 46 | 27 | 1242 |
+| 26 | [wzyisyyds](wzyisyyds) | [rust.rs](wzyisyyds/rust.rs) | 48 | 27 | 1296 |
+| 27 | [KoriSama](KoriSama) | [Program.cs](KoriSama/Program.cs) | 62 | 30 | 1860 |
 <!-- end of RANKING -->
 
 ## 奖品
