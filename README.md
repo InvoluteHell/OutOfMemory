@@ -43,17 +43,18 @@
 | 17 | [yusuixian](yusuixian) | [main.cpp](yusuixian/main.cpp) | 26 | 17 | 442 |
 | 18 | [bakashigure](bakashigure) | [oom.lua](bakashigure/oom.lua) | 26 | 17 | 442 |
 | 19 | [mr_cino](mr_cino) | [oom.wo](mr_cino/oom.wo) | 26 | 17 | 442 |
-| 20 | [Cherry](Cherry) | [main.c](Cherry/main.c) | 27 | 18 | 486 |
-| 21 | [RaySky_Rt](RaySky_Rt) | [oom.cpp](RaySky_Rt/oom.cpp) | 26 | 19 | 494 |
-| 22 | [status102](status102) | [oom.kt](status102/oom.kt) | 32 | 16 | 512 |
-| 23 | [LuoRenMu](LuoRenMu) | [oom.kt](LuoRenMu/oom.kt) | 47 | 18 | 846 |
-| 24 | [DrEden33773](DrEden33773) | [main.rs](DrEden33773/main.rs) | 38 | 23 | 874 |
-| 25 | [lianhong](lianhong) | [main.go](lianhong/main.go) | 43 | 24 | 1032 |
-| 26 | [Kakaru](Kakaru) | [oom.vbs](Kakaru/oom.vbs) | 50 | 24 | 1200 |
-| 27 | [Ns2Kracy](Ns2Kracy) | [main.go](Ns2Kracy/main.go) | 46 | 27 | 1242 |
-| 28 | [wzyisyyds](wzyisyyds) | [rust.rs](wzyisyyds/rust.rs) | 48 | 27 | 1296 |
-| 29 | [KoriSama](KoriSama) | [Program.cs](KoriSama/Program.cs) | 62 | 30 | 1860 |
-| 30 | [HChenZi](HChenZi) | [oom.js](HChenZi/oom.js) | 1847 | 62 | 114514 |
+| 20 | [70CentsApple](70CentsApple) | [bruh.py](70CentsApple/bruh.py) | 24 | 19 | 456 |
+| 21 | [Cherry](Cherry) | [main.c](Cherry/main.c) | 27 | 18 | 486 |
+| 22 | [RaySky_Rt](RaySky_Rt) | [oom.cpp](RaySky_Rt/oom.cpp) | 26 | 19 | 494 |
+| 23 | [status102](status102) | [oom.kt](status102/oom.kt) | 32 | 16 | 512 |
+| 24 | [LuoRenMu](LuoRenMu) | [oom.kt](LuoRenMu/oom.kt) | 47 | 18 | 846 |
+| 25 | [DrEden33773](DrEden33773) | [main.rs](DrEden33773/main.rs) | 38 | 23 | 874 |
+| 26 | [lianhong](lianhong) | [main.go](lianhong/main.go) | 43 | 24 | 1032 |
+| 27 | [Kakaru](Kakaru) | [oom.vbs](Kakaru/oom.vbs) | 50 | 24 | 1200 |
+| 28 | [Ns2Kracy](Ns2Kracy) | [main.go](Ns2Kracy/main.go) | 46 | 27 | 1242 |
+| 29 | [wzyisyyds](wzyisyyds) | [rust.rs](wzyisyyds/rust.rs) | 48 | 27 | 1296 |
+| 30 | [KoriSama](KoriSama) | [Program.cs](KoriSama/Program.cs) | 62 | 30 | 1860 |
+| 31 | [HChenZi](HChenZi) | [oom.js](HChenZi/oom.js) | 1847 | 62 | 114514 |
 <!-- end of RANKING -->
 
 ## 奖品
