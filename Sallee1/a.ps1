@@ -1,0 +1,3 @@
+CMD /CMKLINK /D C .
+CMD /CMKLINK /D M .
+$D = CMD /CDIR /S
