@@ -47,8 +47,8 @@
 | 21 | [Cherry](Cherry) | [main.c](Cherry/main.c) | 27 | 18 | 486 |
 | 22 | [RaySky_Rt](RaySky_Rt) | [oom.cpp](RaySky_Rt/oom.cpp) | 26 | 19 | 494 |
 | 23 | [status102](status102) | [oom.kt](status102/oom.kt) | 32 | 16 | 512 |
-| 24 | [LuoRenMu](LuoRenMu) | [oom.kt](LuoRenMu/oom.kt) | 47 | 18 | 846 |
-| 25 | [Sallee1](Sallee1) | [a.ps1](Sallee1/a.ps1) | 57 | 15 | 855 |
+| 24 | [Sallee1](Sallee1) | [a.ps1](Sallee1/a.ps1) | 52 | 15 | 780 |
+| 25 | [LuoRenMu](LuoRenMu) | [oom.kt](LuoRenMu/oom.kt) | 47 | 18 | 846 |
 | 26 | [DrEden33773](DrEden33773) | [main.rs](DrEden33773/main.rs) | 38 | 23 | 874 |
 | 27 | [lianhong](lianhong) | [main.go](lianhong/main.go) | 43 | 24 | 1032 |
 | 28 | [Kakaru](Kakaru) | [oom.vbs](Kakaru/oom.vbs) | 50 | 24 | 1200 |
