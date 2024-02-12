@@ -55,7 +55,8 @@
 | 29 | [Ns2Kracy](Ns2Kracy) | [main.go](Ns2Kracy/main.go) | 46 | 27 | 1242 |
 | 30 | [wzyisyyds](wzyisyyds) | [rust.rs](wzyisyyds/rust.rs) | 48 | 27 | 1296 |
 | 31 | [KoriSama](KoriSama) | [Program.cs](KoriSama/Program.cs) | 62 | 30 | 1860 |
-| 32 | [HChenZi](HChenZi) | [oom.js](HChenZi/oom.js) | 1847 | 62 | 114514 |
+| 32 | [Do7and](Do7and) | [main.rs](Do7and/main.rs) | 92 | 29 | 2668 |
+| 33 | [HChenZi](HChenZi) | [oom.js](HChenZi/oom.js) | 1847 | 62 | 114514 |
 <!-- end of RANKING -->
 
 ## 奖品
